@@ -1,6 +1,6 @@
 import web3 from "./web3";
 
-const address = "0x5144594F05daF8913638aB56964c149CF981B86e";
+const address = "adress_from_deploy.js file";
 const abi = [
   {
     constant: true,
