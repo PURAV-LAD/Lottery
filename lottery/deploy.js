@@ -3,7 +3,7 @@ const { Web3 } = require("web3");
 const { interface, bytecode } = require("./compile");
 
 const provider = new HDWalletProvider(
-  "slender crush suffer parade throw reunion mandate body exhaust embrace rug gesture","https://sepolia.infura.io/v3/12f477983a1e408b996f2bf946534d3e");
+  "slender crush suffer parade throw reunion mandate body exhaust embrace rug gesture","infura's url for the api(stats)");
 
 const web3 = new Web3(provider);
 
