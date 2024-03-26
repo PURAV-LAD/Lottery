@@ -3,7 +3,7 @@ const { Web3 } = require("web3");
 const { interface, bytecode } = require("./compile");
 
 const provider = new HDWalletProvider(
-  "slender crush suffer parade throw reunion mandate body exhaust embrace rug gesture","infura's url for the api(stats)");
+  "ethereum wallet's Private Key(12 words)","infura's url for the api(stats)");
 
 const web3 = new Web3(provider);
 
